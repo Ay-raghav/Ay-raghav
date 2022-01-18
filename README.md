@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayushman Raghuvanshi
-- 👀 I’m interested in simulations, numerical analysis, and system modeling.
+- 👀 I’m interested in signal processing , numerical analysis, and system modeling.
 - 🌱 I’m currently learning system modeling and simulation.
 - 📫 How to reach me through mail yatonight@gamil.com
 
